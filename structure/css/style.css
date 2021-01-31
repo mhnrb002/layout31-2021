@@ -1,0 +1,80 @@
+/*css start*/
+
+/*header css*/
+.header{
+	/*background-color: red;*/
+	overflow: hidden;
+}
+.header .logo{
+	width:20%;
+	min-height: 50px;
+	background-color: red;
+	float: left;
+}
+.header .brand{
+	float: right;
+	min-height:50px;
+	background-color: green;
+	width: 80%;
+
+}
+/*header css*/
+
+/*nav css*/
+.menu{
+	background-color: yellow;
+	width: 100%;
+	min-height: 80px;
+}
+/*nav css*/
+
+/*slider css*/
+.slider{
+	background-color: green;
+	width: 100%;
+	min-height: 80px;
+}
+/*slider css*/
+
+/*content css*/
+.content{
+	overflow: hidden;
+}
+.content .left_content{
+	float:left;
+	background-color: steelblue;
+	width:70%;
+	min-height:250px;
+}
+.cintent .right_content{
+	float: right;
+	min-height: 250px;
+	width:30%;
+}
+.content .right_content .up{
+	background-color: red;
+	min-height: 125px;
+}
+.content .right_content .low{
+	background-color: green;
+	min-height: 125px;
+}
+/*content css*/
+
+/*footer css*/
+.footer{
+	background-color:red;
+	min-height: 40px;
+	width: 100%;
+}
+/*footer css*/
+
+/*marquee*/
+.marquee{
+	font-size: 80px;
+	color:green;
+	font-style: italic;
+}
+/*marquee*/
+
+/*css start*/
